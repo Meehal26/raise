@@ -48,6 +48,7 @@ const IndexPage = () => (
             protected: convert.moneyToPeopleProtected("gbp", 312900),
           }}
         />
+        <Button variant="outline" size="large" className="mt-4 mb-12" href="donate/">Donate</Button>
       </Section>
       <CTADown text="How it works" href="#how-it-works" />
     </Cover>
